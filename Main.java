@@ -43,7 +43,7 @@ public class Main {
 			
 		
 		String LADescription = "The 1992 LA riots all began when 4 LAPD officers were acquited on a charge of severly beating a black motorist named Rodney King which sparked ",
-				laRiotsCitation = "https://www.britannica.com/topic/rock-Los-Angeles-1950s-overview-1371230";
+				laRiotsCitation = "https://www.britannica.com/event/Los-Angeles-Riots-of-1992";
 				
 				String LARevised = " ";
 
